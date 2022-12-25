@@ -1,2 +1,2 @@
-# gcache
-Automatic Garry's Mod server content remover
+# Modern Garry's Mod Icons
+Replaces all html icons with their modern, fluent counterparts.
