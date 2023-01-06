@@ -62,4 +62,6 @@ Try making an [issue](https://github.com/QuarTheDev/fluent-gmod/issues).
 Nope
 
 ### Credits
-i'll add these soon. i'm tired.
+[https://fluenticons.co](https://fluenticons.co/)
+
+[https://github.com/microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons)
